@@ -1,5 +1,9 @@
 # 💫 About Me:
 👋 Hi, I'm Harshit Sharma<br>I'm a passionate SVEN & MERN Stack Developer with extensive experience in developing and delivering high-quality web applications for clients across the US, UAE, and India. I specialize in building scalable, robust solutions using:<br><br>MongoDB, Express, React, and Node.js , Fabric.js and three.js  (MERN)<br>SQL, Vue.js, Express, Node<br>Microservices architecture<br>Real-time systems using WebSockets<br>Caching strategies with Redis<br>Docker & Kubernetes for containerization and orchestration<br>Kafka for messaging and event-driven systems<br>I love solving complex backend challenges and have successfully completed several industry-level projects with a focus on scalability, performance, and security. My experience includes working on end-to-end project development, from database design to frontend deployment, ensuring timely and efficient delivery.
+Email is :programming966051@gmail.com
+phone number : +919660518978
+linkedin:https://www.linkedin.com/in/harshit-sharma-006b36259/
+
 
 
 # 💻 Tech Stack:
